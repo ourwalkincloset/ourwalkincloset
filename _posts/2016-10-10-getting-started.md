@@ -20,7 +20,6 @@ Millennial is a minimalist Jekyll theme for running a simple, clean, content-foc
 If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
-![Screenshot]({{site.url}}/assets/img/bags.jpeg)
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ## Notable features
