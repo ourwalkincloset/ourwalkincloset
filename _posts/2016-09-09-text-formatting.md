@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "의류"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: clothing.jpeg
 ---
 
 # Markdown Support
