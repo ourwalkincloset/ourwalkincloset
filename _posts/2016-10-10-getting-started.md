@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "액세서리"
+title: "악세사리"
 author: "ourwalkingcloset"
 categories: documentation
 tags: [documentation,sample]
