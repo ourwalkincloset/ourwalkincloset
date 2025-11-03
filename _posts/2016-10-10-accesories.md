@@ -3,26 +3,128 @@ layout: post
 title: "악세사리"
 author: "ourwalkingcloset"
 categories: documentation
-tags: [documentation,sample]
+tags: [sample]
 image: accesories.jpeg
 carousels:
   - images: 
-    - image: assets/img/bags.jpeg
-    - image: assets/img/accesories.jpeg
-    - image: assets/img/arctic-1.jpg
-    - image: assets/img/arctic-2.jpg
+    - image: assets/img/accesories/a1/a0.jpeg
+    - image: assets/img/accesories/a1/a1.jpeg
+    - image: assets/img/accesories/a1/a2.jpeg
+    - image: assets/img/accesories/a1/a3.jpeg
+    - image: assets/img/accesories/a1/a4.jpeg
+  - images:
+    - image: assets/img/accesories/a2/0.jpeg
+    - image: assets/img/accesories/a2/1.jpeg
+    - image: assets/img/accesories/a2/2.jpeg
+    - image: assets/img/accesories/a2/3.jpeg  
+    - image: assets/img/accesories/a2/4.jpeg 
+  - images:
+    - image: assets/img/accesories/a3/0.jpeg
+    - image: assets/img/accesories/a3/1.jpeg
+  - images:
+    - image: assets/img/accesories/a4/1.jpeg
+    - image: assets/img/accesories/a4/0.jpeg
+  - images:
+    - image: assets/img/accesories/a5/0.jpeg
+    - image: assets/img/accesories/a5/1.jpeg
+    - image: assets/img/accesories/a5/3.jpeg
+  - images:
+    - image: assets/img/accesories/a6/0.jpeg
+    - image: assets/img/accesories/a6/1.jpeg
+    - image: assets/img/accesories/a6/2.jpeg
+  - images:
+    - image: assets/img/accesories/a9/2.jpeg
 ---
 
-# Millennial
+---
+# 에르메스 클릭아슈 쏘 블랙 느와르 매트 팔찌
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
+{% include carousel.html height="80" unit="%" duration="7" number="1" %}
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+상품코드: AC001
 
-## Notable features
+사이즈 19호
+
+가격 99,000
+
+---
+
+## 반클리프 아펠 알함브라 귀걸이
+
+{% include carousel.html height="80" unit="%" duration="7" number="2" %}
+
+상품코드: AC002
+
+소재: 써지컬
+
+가격: 40,000
+
+박스 포함
+
+---
+
+## 불가리 세르펜티 뱅글 팔찌 
+
+{% include carousel.html height="80" unit="%" duration="7" number="3" %}
+
+상품코드: AC003
+
+소재: 14k도금
+
+가격: 180,000
+
+사이즈: M(17호)
+
+---
+
+## 까르띠에 저스트 앵끌루 뱅글 팔찌
+
+{% include carousel.html height="80" unit="%" duration="7" number="4" %}
+
+상품코드: AC004
+
+가격: 40,000
+
+사이즈: 18호
+
+---
+
+## 샤넬 코코크러쉬 뱅글 팔찌 
+
+{% include carousel.html height="80" unit="%" duration="7" number="5" %}
+
+상품코드: AC005
+
+가격: 40,000
+
+사이즈: 16호
+
+---
+
+## 샤넬 샴페인골드 목걸이 
+
+{% include carousel.html height="80" unit="%" duration="7" number="6" %}
+
+상품코드: AC006
+
+가격 70,000
+
+소재: 14k도금
+
+---
+
+## 샤넬 귀걸이 
+
+{% include carousel.html height="80" unit="%" duration="7" number="7" %}
+
+상품코드: AC007
+
+가격: 60,000
+
+소재: 14k도금
+
+--- 
 
 * Compatible with GitHub Pages.
 
