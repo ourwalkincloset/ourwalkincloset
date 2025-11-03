@@ -4,7 +4,7 @@ title: "악세사리"
 author: "ourwalkingcloset"
 categories: documentation
 tags: [sample]
-image: accesories.jpeg
+image: accesories_o.jpeg
 carousels:
   - images: 
     - image: assets/img/accesories/a1/a0.jpeg
