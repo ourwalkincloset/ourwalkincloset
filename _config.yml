@@ -14,8 +14,7 @@ title:		           "우리의워크인클로젯"
 description:	       "a minimalist Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 
-url: "https://ourwalkincloset.github.io"
-baseurl: "/ourwalkincloset"
+#
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

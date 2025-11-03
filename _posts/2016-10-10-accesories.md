@@ -31,7 +31,6 @@ carousels:
   - images:
     - image: assets/img/accesories/a6/0.jpeg
     - image: assets/img/accesories/a6/1.jpeg
-    - image: assets/img/accesories/a6/2.jpeg
   - images:
     - image: assets/img/accesories/a9/2.jpeg
   - images:
@@ -115,7 +114,7 @@ carousels:
 
 ## 샤넬 샴페인골드 목걸이 
 
-{% include carousel.html height="80" unit="%" duration="7" number="6" %}
+{% include carousel.html height="100" unit="%" duration="7" number="6" %}
 
 상품코드: AC006
 
