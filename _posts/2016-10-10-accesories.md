@@ -14,10 +14,10 @@ carousels:
     - image: assets/img/accesories/a1/a4.jpeg
   - images:
     - image: assets/img/accesories/a2/0.jpeg
-    - image: assets/img/accesories/a2/1.jpeg
+    - image: assets/img/accesories/a2/4.jpeg
     - image: assets/img/accesories/a2/2.jpeg
     - image: assets/img/accesories/a2/3.jpeg  
-    - image: assets/img/accesories/a2/4.jpeg 
+    - image: assets/img/accesories/a2/1.jpeg 
   - images:
     - image: assets/img/accesories/a3/0.jpeg
     - image: assets/img/accesories/a3/1.jpeg
@@ -34,6 +34,17 @@ carousels:
     - image: assets/img/accesories/a6/2.jpeg
   - images:
     - image: assets/img/accesories/a9/2.jpeg
+  - images:
+    - image: assets/img/accesories/a7/0.jpeg
+    - image: assets/img/accesories/a7/3.jpeg
+  - images:
+    - image: assets/img/accesories/a8/4.jpeg
+    - image: assets/img/accesories/a8/2.jpeg
+    - image: assets/img/accesories/a8/3.jpeg
+    - image: assets/img/accesories/a8/1.jpeg
+  - images:
+    - image: assets/img/accesories/a10/0.jpeg
+    - image: assets/img/accesories/a10/1.jpeg
 ---
 
 ---
@@ -125,6 +136,43 @@ carousels:
 소재: 14k도금
 
 --- 
+
+## 샤넬 코코크러쉬 반지 로즈골드 
+
+{% include carousel.html height="80" unit="%" duration="7" number="8" %}
+
+상품코드: AC008
+
+7호 스몰: 35,000
+
+7호 라지: 45,000
+
+--- 
+
+## 티파니 노트 반지 로즈골드 
+
+{% include carousel.html height="80" unit="%" duration="7" number="9" %}
+
+상품코드: AC009
+
+가격: 50,000
+
+소재: 14k도금
+
+---
+
+## 디올 트윌리 방도 스카프 
+
+{% include carousel.html height="80" unit="%" duration="7" number="10" %}
+
+상품코드: AC010
+
+가격: 30,000
+
+소재: 실크
+
+---
+
 
 * Compatible with GitHub Pages.
 
