@@ -7,10 +7,10 @@ tags: [documentation,sample]
 image: accesories.jpeg
 carousels:
   - images: 
-    - image: ourwalkincloset/assets/img/bags.jpeg
-    - image: ourwalkincloset/assets/img/accesories.jpeg
-    - image: ourwalkincloset/assets/img/arctic-1.jpg
-    - image: ourwalkincloset/assets/img/arctic-2.jpg
+    - image: assets/img/bags.jpeg
+    - image: assets/img/accesories.jpeg
+    - image: assets/img/arctic-1.jpg
+    - image: assets/img/arctic-2.jpg
 ---
 
 # Millennial
